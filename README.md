@@ -10,8 +10,6 @@ brew install imagemagick
 
 brew install gs
 
-rails generate simple_form:install
-
 bin/rails s
 
 This README would normally document whatever steps are necessary to get the

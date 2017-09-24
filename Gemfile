@@ -38,6 +38,7 @@ gem 'paperclip', '~> 4.2'
 gem 'simple_form'
 
 gem 'bootstrap-sass'
+gem 'devise'
 
 
 group :development, :test do
