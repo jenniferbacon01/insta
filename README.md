@@ -15,7 +15,7 @@ To clone this repository:
 ````
   $ git clone https://github.com/jenniferbacon01/insta
 ````
-To set up the databases in psql:
+To set up the databases in SQLite3:
 ````
   $ bin/rake db:create
   $ bin/rake db:migrate
